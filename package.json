@@ -17,5 +17,13 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khushiiish/MERN-PRODUCT_STORE.git"
+  },
+  "bugs": {
+    "url": "https://github.com/khushiiish/MERN-PRODUCT_STORE/issues"
+  },
+  "homepage": "https://github.com/khushiiish/MERN-PRODUCT_STORE#readme"
 }
