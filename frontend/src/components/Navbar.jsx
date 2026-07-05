@@ -7,6 +7,7 @@ import { PlusSquareIcon, SunIcon, MoonIcon } from "@chakra-ui/icons";
 
 const Navbar = () => {
   const { colorMode, toggleColorMode } = useColorMode();
+ 
 
   return (
     <Container maxW={"1140px"} px={4}>
